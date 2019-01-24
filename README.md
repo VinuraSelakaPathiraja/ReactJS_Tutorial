@@ -19,9 +19,9 @@ Setup React Environment using NPM
 3) Install the ReactJS package (by using NPM command)<br/>
 	<b>npm install -g create-react-app</b>
 4) create a new ReactJS application (by using NPM Package Runner Tool command)<br/>
-	<t>npx create-react-app ReactJS_Tutorial
+	<b>npx create-react-app ReactJS_Tutorial</b>
 5) navigate to the newly created application<br/>
-	<t>cd ReactJS_Tutorial
+	<b>cd ReactJS_Tutorial</b>
 6) Start the server and check whether your app is up & running<br/>
-	<t>npm start
+	<b>npm start</b>
 

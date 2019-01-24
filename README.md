@@ -1,5 +1,5 @@
 In this repository i have included all the fundamentals that you should know to start coding with ReactJS.
-
+----------------------------------------------------------------------------------------------------------
 1) React Component
 2) React JSX syntax
 3) React Variables
@@ -13,7 +13,7 @@ In this repository i have included all the fundamentals that you should know to 
 11)React Controlled Uncontrolled Inputs
 
 Setup React Environment using NPM
-
+----------------------------------
 1) Install NodeJS from the https://nodejs.org/en/
 2) open command prompt and navigate to a project folder
 3) Install the ReactJS package (by using NPM command)
